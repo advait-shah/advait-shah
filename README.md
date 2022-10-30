@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/header.png"/></p>
 <h1 align="center">Hi, I am Advait Shah </h1>
 
 <p align="center" width="150px"> Data Science and Machine Learning Enthusiast <br>Currently pursuing Master's Degree at University of Waterloo</p>
