@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Advait Shah </h1>
 
-<p align="center" width="150px"> I am a Data Science and Machine Learning Enthusiast <br>Currently pursuing Master's Degree at University of Waterloo</p>
+<p align="center" width="150px"> Data Science and Machine Learning Enthusiast <br>Currently pursuing Master's Degree at University of Waterloo</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Badvait-shah%7D/count.svg" alt="visitor badge"/></p>
