@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a **Computer Vision** project <br>
 - 🌱 I’m currently mastering various **Data Science, MLOps** tools <br>
 - 👯 I’m looking to collaborate on **Computer Vision, NLP, Deep Reinforcement Learning** Projects and **Kaggle Competitions** <br>
-- 💬 Ask me about **DataScience, Deep Learning and AI** <br>
+- 💬 Ask me about **Data Science, Deep Learning and AI** <br>
 
 <br>
 <img class="align" align="center" alt="GIF" src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/code.gif" width="500" height="320" />
