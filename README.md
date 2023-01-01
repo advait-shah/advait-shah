@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/Hi.gif" width="30px" height="30px"> , I'm Advait Shah </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/Hi.gif" width="30px" height="30px"> , I'm Advait </h1>
 
 <h4 align="left"> Data Science and Machine Learning Engineer </h4>
 
