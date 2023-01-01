@@ -7,6 +7,10 @@
 - 👯 I’m looking to collaborate on **Computer Vision, NLP, Deep Reinforcement Learning** Projects and **Kaggle Competitions** <br>
 - 💬 Ask me about **DataScience, Deep Learning and AI** <br>
 
+<br>
+<img class="align" align="center" alt="GIF" src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/code.gif" width="500" height="320" />
+<br>
+
 #### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -41,5 +45,5 @@
 
 <a href="https://linkedin.com/in/advaitshah"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="80" height="35"> </a> <a href="mailto:advaitshah93@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="80" height="35"> </a>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7badvait-shah%7d/count.svg" alt="visitor badge"/></p>
+<p align="center">Visitor's Count</p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7badvait-shah%7d/count.svg" alt="visitor badge" width="150" height="25"></p>
