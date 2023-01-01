@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/Hi.gif" width="30px" height="30px"> , I'm Advait Shah </h1>
 
-<h4 align="left"> Data Science and Machine Learning Expert </h4>
+<h4 align="left"> Data Science and Machine Learning Engineer </h4>
 
 - 🔭 I’m currently working on a **Computer Vision** project <br>
 - 🌱 I’m currently mastering various **Data Science, MLOps** tools <br>
