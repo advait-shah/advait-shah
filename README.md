@@ -2,9 +2,10 @@
 
 <h4 align="left"> Data Science and Machine Learning Engineer </h4>
 
-- 🔭 I’m currently working on an **Image Captioning** project <br>
-- 👯 I’m looking to collaborate on **Computer Vision, NLP, Deep Reinforcement Learning** Projects and **Kaggle Competitions** <br>
+- 🔭 I’m currently working on **Image Captioning** project <br>
 - 💬 Ask me about **Data Science, Deep Learning and AI** <br>
+- 👯 If you share similar passion and want to collaborate for solving some of the challenging tasks in the **Computer Vision, NLP or Deep Reinforcement Learning** domain, let's connect!  <br>
+
 
 <br>
 <img class="align" align="center" alt="GIF" src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/code.gif" width="500" height="320" />
