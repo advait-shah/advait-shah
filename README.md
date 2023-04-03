@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Image Captioning** project <br>
 - 💬 Ask me about **Data Science, Deep Learning and AI** <br>
-- 👯 If you share similar passion and want to collaborate for solving some of the challenging tasks in the **Computer Vision, NLP or Deep Reinforcement Learning** domain, let's connect!  <br>
+- 👯 If you share similar passion and want to collaborate on solving some of the challenging tasks in the **Computer Vision, NLP or Deep Reinforcement Learning** domain, let's connect!  <br>
 
 
 <br>
