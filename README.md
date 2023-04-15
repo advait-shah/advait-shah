@@ -2,7 +2,7 @@
 
 <h4 align="left"> Data Science and Machine Learning Engineer </h4>
 
-- 🔭 I’m currently working on **Image Captioning** project <br>
+- 🔭 I’m currently working on **Neural Image Captioning** project <br>
 - 💬 Ask me about **Data Science, Deep Learning and AI** <br>
 - 👯 If you share similar passion and want to collaborate on solving some of the challenging tasks in the **Computer Vision, NLP or Deep Reinforcement Learning** domain, let's connect!  <br>
 
