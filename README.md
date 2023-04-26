@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/Hi.gif" width="30px" height="30px"> , I'm Advait </h1>
 
-- 🔭 I’m currently working on projects involving **industrial and business process optimization with my extensive knowledge in Data analytics, Quality management, Operations & Supply chain, and Engineering Project Management** <br>
+- 🔭 I’m currently working on projects involving industrial and business process optimization with my extensive knowledge in **Data analytics, Quality management, Operations & Supply chain, and Engineering Project Management** <br>
 
 <br>
 <img class="align" align="center" alt="GIF" src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/code.gif" width="500" height="320" />
