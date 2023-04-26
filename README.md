@@ -2,7 +2,7 @@
 
 <h4 align="left"> Data Analyst </h4>
 
-- 🔭 I’m currently working on **improving and optimizing industrial and business processes with my extensive knowledge in Data analytics, Quality management, Operations & Supply chain, and Engineering Project Management** project <br>
+- 🔭 I’m currently working on projects involving **industrial and business process optimization with my extensive knowledge in Data analytics, Quality management, Operations & Supply chain, and Engineering Project Management** <br>
 
 <br>
 <img class="align" align="center" alt="GIF" src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/code.gif" width="500" height="320" />
