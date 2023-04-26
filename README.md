@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/advait-shah/advait-shah/main/Hi.gif" width="30px" height="30px"> , I'm Advait </h1>
 
-<h4 align="left"> Data Analyst </h4>
-
 - 🔭 I’m currently working on projects involving **industrial and business process optimization with my extensive knowledge in Data analytics, Quality management, Operations & Supply chain, and Engineering Project Management** <br>
 
 <br>
